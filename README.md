@@ -1,4 +1,4 @@
-# This Game Fucking Sucks LOL
+# This Gam Sucks LOL
 ###### Read the code at your own risk, may cause major loss of braincells
 
 i really suck at C++..
