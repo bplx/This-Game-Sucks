@@ -1,6 +1,6 @@
 /*
-TGFSLOL
-This Game Fucking Sucks LOL
+TGSLOL
+This Game Sucks LOL
 Notes ---->
 Remember to add more classes (Militant, Commander)
 Upgrades are important but i'm not sure how i'm going to 
@@ -28,7 +28,7 @@ Min HP for Guard:
 std::string names[10] = { "Levelius", "Avelius", "Guvvar", "Vladimir", "Elen", "Graphil", "Inerti", "Zarr", "Nivval", "Geometro" };
 
 void initialize() {
-	/* Put some player shit in here or something */
+	/* Put some player stuff in here or something */
 }
 
 class Player {
@@ -69,7 +69,7 @@ int main() {
 	std::srand(time(NULL));
 
 	/* Make an Enemy and fight it through returning a Guard type from enemy() (which makes a semi-random Guard type) into fight().
-	Wow. That's quite a bit of documentation. Why the fuck do i write this even though i'm going to dump it into a shitty folder with some more unused projects.
-	If you're reading this code, get the fuck out because this stuff is the most wrangly inefficient shit code ever. This got long, didn't it. */
+	Wow. That's quite a bit of documentation. Why the frick do i write this even though i'm going to dump it into a bad folder with some more unused projects.
+	If you're reading this code, get the frick out because this stuff is the most wrangly inefficient terrible code ever. This got long, didn't it. */
 	fight(enemy());
 }
